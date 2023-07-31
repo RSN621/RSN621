@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/RSN621//RSN621/assets/github-contribution-grid-snake.svg" /></div>
+
+![](https://raw.githubusercontent.com/RSN621/RSN621/main/assets/github-contribution-grid-snake.svg)
