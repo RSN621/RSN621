@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center"> <img src="https://metrics.lecoq.io/RSN621?template=classic&config.timezone=Asia%2FShanghai"> </div>
-![](https://cdn.jsdelivr.net/gh/xxx/xxx@main/assets/github-contribution-grid-snake.svg)
+![](https://cdn.jsdelivr.net/gh/RSN621/RSN621@main/assets/github-contribution-grid-snake.svg)
