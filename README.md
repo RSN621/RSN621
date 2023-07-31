@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center"> <img src="https://metrics.lecoq.io/RSN621?template=classic&config.timezone=Asia%2FShanghai"> </div>
-![](https://cdn.jsdelivr.net/gh/RSN621/RSN621@main/assets/github-contribution-grid-snake.svg)
+<div align="center"><img src="https://cdn.jsdelivr.net/gh//RSN621//RSN621/assets/github-contribution-grid-snake.svg" /></div>
