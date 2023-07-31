@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 <div align="center"> <img src="https://metrics.lecoq.io/RSN621?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/RSN621//RSN621/assets/github-contribution-grid-snake.svg" /></div>
-
-![](https://raw.githubusercontent.com/RSN621/RSN621/main/assets/github-contribution-grid-snake.svg)
-
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/RSN621/RSN621/assets/github-contribution-grid-snake-dark.svg" />
